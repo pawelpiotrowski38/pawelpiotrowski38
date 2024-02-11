@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! Welcome to my GitHub 👋
 
-<!--
-**pawelpiotrowski38/pawelpiotrowski38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm interested in web development
+- 📫 How to reach me: pawel.piotrowski38@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,css,sass,postgres,git,vscode)](https://skillicons.dev)
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelpiotrowski38&theme=github_dark&show_icons=true)
