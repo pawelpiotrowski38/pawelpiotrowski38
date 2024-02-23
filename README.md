@@ -1,7 +1,8 @@
 ## Hi! Welcome to my GitHub 👋
 
 - 🔭 I'm interested in web development
-- 📫 How to reach me: pawel.piotrowski38@gmail.com
+- ✉️ How to reach me: pawel.piotrowski38@gmail.com
+- 🖥️ My Website: https://pawelpiotrowski.net/
 
 
 ### Languages and Tools
