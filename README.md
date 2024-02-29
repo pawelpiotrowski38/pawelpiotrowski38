@@ -7,7 +7,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,css,sass,postgres,py,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,css,sass,postgres,supabase,py,git,vscode)](https://skillicons.dev)
 
 ### Stats
 
